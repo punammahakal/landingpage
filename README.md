@@ -1,2 +1,2 @@
 # landingpage
-landing pade usind html and css
+landing page usind html and css
