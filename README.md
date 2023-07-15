@@ -1,2 +1,2 @@
 # landingpage
-landing page usind html and css
+landing page using html and css
